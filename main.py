@@ -1,3 +1,4 @@
+#!/bin/python3
 # Copyright (C) <year>  <name of author>
 #
 # This program is free software: you can redistribute it and/or modify
@@ -13,9 +14,13 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+import argparse
+import unittest
+
+from tests import *
 
 def main():
-    print("Hello!")
+    unittest.main()
 
 if __name__ == "__main__":
     main()
