@@ -1,5 +1,5 @@
 #!/bin/python3
-# Copyright (C) <year>  <name of author>
+# Copyright (C) 2020, Tristan <42b202ec-1be9-4f66-8098-c506a1b4dfa2@anonaddy.me>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
